@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttssgulugulu&label=Profile%20views&color=0e75b6&style=flat" alt="ttssgulugulu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5ZTd2Ke-eVop8GzrqHUv0ElX581yZmpwQPvC-1wf&s">
 
 - 🌱 I’m currently learning **MERN stack**
 
